@@ -1,0 +1,2 @@
+0 xray
+1 not xray

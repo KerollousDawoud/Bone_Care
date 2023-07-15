@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037897581705",
+    "project_id": "dopai-2c66f",
+    "storage_bucket": "dopai-2c66f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037897581705:android:dbed89a57b0fc84f07f258",
+        "android_client_info": {
+          "package_name": "com.example.dopproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037897581705-nc2aek5nnalokmimi2359ek3cotnd4ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIb4ONLQkHLJyyc8aA0yVMaf5gS8spalg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037897581705-nc2aek5nnalokmimi2359ek3cotnd4ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
